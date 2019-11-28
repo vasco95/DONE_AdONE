@@ -1,0 +1,11 @@
+{"cont_file": "./Data/cora/C_Final_permuted.csv",
+    "struc_file": "./Data/cora/A_Final_permuted.csv",
+    "encoder1": [100, 16],
+    "decoder1": [100],
+    "encoder2": [100, 16],
+    "decoder2": [100],
+    "batch_size": 256,
+    "pretrain_threshold": 10,
+    "experiment_name": "cora_done",
+    "num_epochs": 19,
+    "learning_rate": 1e-3}
